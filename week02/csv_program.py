@@ -25,13 +25,8 @@ def read_csv(input_file):
     for row in reader:
       csv_list.append(row)
   return csv_list
-      
-    
 
 if __name__ == '__main__':
-  
-  # read_csv("data.csv")
-  # write_list_to_file('test.txt',['test','abe','abe','abe','abe','abe'])
   
   parser = argparse.ArgumentParser(description='')
   parser.add_argument('file',help='The csv file to read')

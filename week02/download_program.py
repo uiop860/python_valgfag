@@ -15,12 +15,5 @@ if __name__ == '__main__':
       filename = extension[0]
       extension = extension[len(extension)-1]
       test = webget.download(args.url,"my_notebooks/week02/" + filename + "." + extension)
-    # print(args.url.split('/'))
     
     # python -m my_notebooks.week02.download_program https://hackernews.com -d my_notebooks/week02/default_file.dat
-    
-    # print(test)
-  
-    
-    
-    

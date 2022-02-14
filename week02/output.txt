@@ -1,0 +1,42 @@
+{
+    "../../my_notebooks": [
+        ".git",
+        "README.md",
+        "__init__.py"
+    ],
+    "../../my_notebooks/__pycache__": [
+        "__init__.cpython-37.pyc"
+    ],
+    "../../my_notebooks/modules": [
+        "webget.py",
+        "__init__.py"
+    ],
+    "../../my_notebooks/modules/__pycache__": [
+        "webget.cpython-37.pyc",
+        "__init__.cpython-37.pyc"
+    ],
+    "../../my_notebooks/week01": [
+        "01_excercises.ipynb",
+        "__init__.py"
+    ],
+    "../../my_notebooks/week02": [
+        "02_excercises.ipynb",
+        "csv_program.py",
+        "data.csv",
+        "download_program.py",
+        "output.txt",
+        "test.csv",
+        "test.txt",
+        "utils.py",
+        "__init__.py"
+    ],
+    "../../my_notebooks/week02/__pycache__": [
+        "download_program.cpython-37.pyc",
+        "__init__.cpython-37.pyc"
+    ],
+    "../../my_notebooks/week02/test": [],
+    "../../my_notebooks/week02/test/test1": [],
+    "../../my_notebooks/week02/test/test1/test3": [],
+    "../../my_notebooks/week02/test/test2": [],
+    "../../my_notebooks/week02/test/test2/test4": []
+}
