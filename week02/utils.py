@@ -13,7 +13,7 @@ def get_all_file_names(folderpath,out= "output.txt"):
   """takes a path to a folder and write all filenames recursively (files of all sub folders to)"""
   file_names = {}
   
-  def recursion(path):
+  def recursion(path,):
     nonlocal file_names
     files = os.listdir(path)
     file_names[path] = []
